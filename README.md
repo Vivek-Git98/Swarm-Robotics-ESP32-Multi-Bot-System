@@ -8,11 +8,11 @@
 ## 📸 Demo
 
 <!-- Replace with your actual photo/video paths after uploading -->
-| Bot Hardware | Formation in Action |
+| Bot Hardware | 
 |:---:|:---:|
-| ![Bot Photo](media/photos/bot_overview.jpg) | ![Formation](media/photos/formation.jpg) |
+| ![Bot Photo](swarm robotics.jpeg) |
 
-🎥 **[Watch Demo Video](media/videos/swarm_demo.mp4)**
+🎥 **[Watch Demo Video](https://youtube.com/shorts/qocGjdzIxHM?si=sVSJTmNCJVoLKhe8)**
 
 ---
 
