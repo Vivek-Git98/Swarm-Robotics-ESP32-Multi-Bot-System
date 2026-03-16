@@ -83,16 +83,11 @@ and Bot 3 follows 4 waypoints behind — keeping them evenly spaced.
 swarm-robotics/
 ├── firmware/
 │   ├── master/
-│   │   └── master.ino          ← Flash to Bot 1
+│   │   └── master.ino          
 │   └── slave/
-│       └── slave.ino           ← Flash to Bot 2 & 3 (change BOT_ID)
+│       └── slave.ino           
 ├── gui/
 │   └── swarm_control.py        ← Python PC control panel
-├── docs/
-│   └── GITHUB_GUIDE.md         ← How to upload this repo
-├── media/
-│   ├── photos/                 ← Put your bot photos here
-│   └── videos/                 ← Put your demo video here
 ├── .gitignore
 └── README.md
 ```
@@ -175,9 +170,9 @@ compass.setCalibration(xMin, xMax, yMin, yMax, zMin, zMax);
 
 ## 👤 Author
 
-**[Your Name]**  
-B.Tech / Department — [Your College]  
-[Your LinkedIn / email]
+Vivek Kumar
+B.Tech / ECE — Central University of Jammu
+https://www.linkedin.com/in/vivek-kumar2121/
 
 ---
 
